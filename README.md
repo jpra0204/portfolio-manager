@@ -1,2 +1,1 @@
-# portfolio-manager
-A portfolio manager tool 
+A portfolio manager tool
